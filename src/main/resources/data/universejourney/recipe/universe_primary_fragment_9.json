@@ -1,0 +1,16 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "building",
+  "group": "universejourney:items",
+  "pattern": [
+    "B"
+  ],
+  "key": {
+    "B": "universejourney:universe_primary_block"
+  },
+  "result": {
+    "count": 9,
+    "id": "universejourney:universe_primary_fragment"
+  },
+  "show_notification": true
+}

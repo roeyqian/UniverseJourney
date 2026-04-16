@@ -1,0 +1,20 @@
+{
+  "type": "universejourney:supreme_crafting",
+  "category": "building",
+  "group": "supreme:items",
+  "pattern": [
+    "#*#",
+    "*$*",
+    "#*#"
+  ],
+  "key": {
+    "#": "#minecraft:planks",
+    "*": "minecraft:obsidian",
+    "$": "universejourney:supreme_core"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:supreme_worktable"
+  },
+  "show_notification": true
+}

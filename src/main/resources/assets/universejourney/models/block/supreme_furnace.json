@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "universejourney:block/universe_refinery_top",
+    "down": "universejourney:block/universe_refinery_bottom",
+    "particle": "universejourney:block/universe_refinery_front",
+    "north": "universejourney:block/universe_refinery_front",
+    "south": "universejourney:block/universe_refinery_back",
+    "west": "universejourney:block/universe_refinery_left",
+    "east": "universejourney:block/universe_refinery_right"
+  }
+}
+

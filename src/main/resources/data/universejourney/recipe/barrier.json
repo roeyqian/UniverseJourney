@@ -1,0 +1,20 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "building",
+  "group": "universejourney:items",
+  "pattern": [
+    "GGG",
+    "BUB",
+    "GGG"
+  ],
+  "key": {
+    "U": "universejourney:universe_block",
+    "B": "minecraft:bedrock",
+    "G": "minecraft:glass"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:barrier"
+  },
+  "show_notification": true
+}

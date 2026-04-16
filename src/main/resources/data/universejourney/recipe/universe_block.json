@@ -1,0 +1,18 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "building",
+  "group": "universejourney:items",
+  "pattern": [
+    "SSS",
+    "SSS",
+    "SSS"
+  ],
+  "key": {
+    "S": "universejourney:universe_star"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:universe_block"
+  },
+  "show_notification": true
+}

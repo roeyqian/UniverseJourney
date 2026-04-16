@@ -1,0 +1,20 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "building",
+  "group": "universejourney:items",
+  "pattern": [
+    "OOO",
+    "BUB",
+    "OOO"
+  ],
+  "key": {
+    "U": "universejourney:universe_void_pool",
+    "B": "minecraft:bedrock",
+    "O": "minecraft:crying_obsidian"
+  },
+  "result": {
+    "count": 1,
+    "id": "minecraft:jigsaw"
+  },
+  "show_notification": true
+}

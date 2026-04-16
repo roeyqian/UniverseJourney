@@ -1,0 +1,18 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "building",
+  "group": "universejourney:items",
+  "pattern": [
+    "SSS",
+    "S S",
+    "S S"
+  ],
+  "key": {
+    "S": "universejourney:universe_star"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:universe_leggings"
+  },
+  "show_notification": true
+}

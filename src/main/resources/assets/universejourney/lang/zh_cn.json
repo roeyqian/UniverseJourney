@@ -1,0 +1,179 @@
+{
+  "key.category.universejourney.general": "寰宇之旅",
+  "key.universejourney.universe_mode": "工具模式切换",
+
+  "msg.universejourney.supreme_mobile.mode_1": "超凡手机：方块识别",
+  "msg.universejourney.supreme_mobile.mode_0": "超凡手机：方块模拟",
+
+  "msg.universejourney.universe_ultima_sword.mode_1": "寰宇终剑：顷刻炼化",
+  "msg.universejourney.universe_ultima_sword.mode_0": "寰宇终剑：平日烛火",
+
+  "msg.universejourney.universe_omni_blade.mode_1": "寰宇全能刃：万象归虚",
+  "msg.universejourney.universe_omni_blade.mode_0": "寰宇全能刃：厚德载物",
+
+  "msg.universejourney.universe_console.mode_1": "寰宇控制台：绑定模式",
+  "msg.universejourney.universe_console.mode_0": "寰宇控制台：工作模式",
+
+  "msg.universejourney.supreme_mobile.identified": "超凡手机: 已绑定此方块",
+  "msg.universejourney.supreme_mobile.unfunctional_block": "超凡手机: 该方块没有可交互界面",
+  "msg.universejourney.supreme_mobile.has_block_entity": "超凡手机: 该方块包含存储数据，不支持便携模拟",
+  "msg.universejourney.supreme_mobile.no_block_stored": "超凡手机: 尚未识别任何方块",
+  "msg.universejourney.supreme_mobile.error.invalid_block_id": "超凡手机: 存储的方块ID无效",
+  "msg.universejourney.supreme_mobile.error.no_factory": "超凡手机: 无法创建界面",
+
+  "msg.universejourney.universe_console.bind": "寰宇控制台：已绑定此方块",
+  "msg.universejourney.universe_console.remove": "寰宇控制台：已删除此绑定",
+  "msg.universejourney.universe_console.no_target": "寰宇控制台：目标方块可能已被破坏",
+  "msg.universejourney.universe_console.unable_open": "寰宇控制台：无法打开该方块",
+  "msg.universejourney.universe_console.unable_bind": "寰宇控制台：无法绑定该方块",
+  "msg.universejourney.universe_console.unknown_world": "寰宇控制台：未知的目标维度",
+  "msg.universejourney.universe_console.error": "寰宇控制台：出现致命错误",
+  "msg.universejourney.universe_console.remove_btn": "移除该方块的绑定",
+  "msg.universejourney.universe_console.no_bind": "没有绑定的方块",
+
+  "msg.universejourney.universe_guardian.guard": "寰宇守卫：守卫中",
+  "msg.universejourney.universe_guardian.sleep": "寰宇守卫：休眠中",
+
+  "entity.universejourney.universe_guardian": "寰宇守卫",
+  "entity.universejourney.skulk_behemoth": "幽匿巨兽",
+  "entity.universejourney.bell_ringer": "守钟人",
+  "entity.universejourney.bell_soul": "钟灵",
+  "entity.universejourney.the_unnameable_thing": "不可名状之物",
+  "entity.universejourney.pale_lord_body": "苍白领主",
+  "entity.universejourney.pale_lord_clone": "苍白领主分身",
+  "entity.universejourney.obsidian_golem": "黑曜石傀儡",
+
+  "dimension.minecraft:overworld": "§a主世界",
+  "dimension.minecraft:the_nether": "§c下界",
+  "dimension.minecraft:the_end": "§e末地",
+  "dimension.universejourney:ore_continent": "§b矿石大陆",
+  "dimension.universejourney:harvest_continent": "§6丰收大陆",
+
+  "group.universejourney.supreme_group": "超凡",
+
+  "item.universejourney.supreme_banquet": "超凡盛宴",
+  "item.universejourney.supreme_metal": "超凡金属",
+  "item.universejourney.supreme_crystal": "超凡结晶",
+  "item.universejourney.supreme_core": "超凡核心",
+
+  "item.universejourney.supreme_mobile": "超凡手机",
+  "item.universejourney.supreme_mobile.lore_main": "移动型功能方块",
+  "item.universejourney.supreme_mobile.lore1": "自由模拟除存储设备外的一切功能方块",
+
+  "item.universejourney.seed_of_all_things": "万物之种",
+  "item.universejourney.ever_water_soil": "永沃土壤",
+  "item.universejourney.ever_water_grass_block": "永沃草方块",
+  "item.universejourney.ever_water_farmland": "永沃耕地",
+
+  "item.universejourney.golden_sapling": "黄金树苗",
+  "item.universejourney.golden_leaves": "黄金树叶",
+  "item.universejourney.golden_planks": "黄金木板",
+  "item.universejourney.golden_wood": "黄金木",
+  "item.universejourney.stripped_golden_wood": "去皮黄金木",
+  "item.universejourney.golden_log": "黄金原木",
+  "item.universejourney.stripped_golden_log": "去皮黄金原木",
+
+  "item.universejourney.wither_spawn_egg": "凋灵刷怪蛋",
+  "item.universejourney.ender_dragon_spawn_egg": "末影龙刷怪蛋",
+  "item.universejourney.skulk_behemoth_spawn_egg": "幽匿巨兽刷怪蛋",
+  "item.universejourney.the_unnameable_egg": "不可名状之蛋",
+  "item.universejourney.bell_ringer_spawn_egg": "守钟人刷怪蛋",
+  "item.universejourney.bell_soul_spawn_egg": "钟灵刷怪蛋",
+  "item.universejourney.pale_lord_spawn_egg": "苍白领主刷怪蛋",
+  "item.universejourney.obsidian_golem_spawn_egg": "黑曜石傀儡刷怪蛋",
+
+  "item.universejourney.supreme_gem_block": "超凡宝石块",
+  "item.universejourney.supreme_fodder_block": "超凡粮草块",
+  "item.universejourney.supreme_worktable": "超凡工作台",
+  "item.universejourney.supreme_furnace": "超凡熔炉",
+  "item.universejourney.supreme_reserver": "超凡逆向仪",
+
+  "block.universejourney.supreme_worktable": "超凡工作台",
+  "block.universejourney.supreme_furnace": "超凡熔炉",
+  "block.universejourney.supreme_reserver": "超凡逆向仪",
+
+  "group.universejourney.universe_group": "寰宇",
+
+  "item.universejourney.universe_gemred": "核心炽红",
+  "item.universejourney.universe_gemblue": "苍穹远蓝",
+  "item.universejourney.universe_gemyellow": "烈阳金辉",
+  "item.universejourney.universe_gemgreen": "大地翠灵",
+  "item.universejourney.universe_gemblack": "深渊暗影",
+  "item.universejourney.universe_gemwhite": "月华幻境",
+
+  "item.universejourney.universe_primary_fragment": "原始究极碎片",
+  "item.universejourney.universe_primary_block": "原始究极方块",
+
+  "item.universejourney.strange_matter": "奇异物质",
+  "item.universejourney.strange_potion": "奇异药水",
+  "item.universejourney.strange_splash_potion": "奇异喷溅药水",
+  "item.universejourney.strange_lingering_potion": "奇异滞留药水",
+
+  "item.universejourney.universe_star": "寰宇之星",
+  "item.universejourney.universe_star.lore_main": "万界之精华",
+  "item.universejourney.universe_star.lore1": "唯有时空本身能抹除其存在",
+
+  "item.universejourney.universe_stick": "寰宇杖",
+  "item.universejourney.universe_stick.lore_main": "统治万界的开始",
+  "item.universejourney.universe_stick.lore1": "唯有时空本身能抹除其存在",
+
+  "item.universejourney.universe_guardian_spawn_egg": "寰宇守卫刷怪蛋",
+  "item.universejourney.universe_guardian_spawn_egg.lore_main": "召唤世间最强的守护之灵",
+  "item.universejourney.universe_guardian_spawn_egg.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_guardian_spawn_egg.lore2": "如影随形 摧枯拉朽 固若金汤",
+
+  "item.universejourney.universe_helmet": "寰宇头盔",
+  "item.universejourney.universe_helmet.lore_main": "永恒领主护冠",
+  "item.universejourney.universe_helmet.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_helmet.lore2": "你已豁免代谢之需与氧之依",
+  "item.universejourney.universe_helmet.lore3": "受赐洞悉本源永离渊雾之瞳",
+
+  "item.universejourney.universe_chestplate": "寰宇胸甲",
+  "item.universejourney.universe_chestplate.lore_main": "驱魔庇佑神装",
+  "item.universejourney.universe_chestplate.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_chestplate.lore2": "水火狂烈相侵你自岿然不动",
+  "item.universejourney.universe_chestplate.lore3": "赋予你凌驾万物翱翔之主权",
+
+  "item.universejourney.universe_leggings": "寰宇护腿",
+  "item.universejourney.universe_leggings.lore_main": "星海宏锻下肢",
+  "item.universejourney.universe_leggings.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_leggings.lore2": "深渊再也无法阻挡你的脚步",
+  "item.universejourney.universe_leggings.lore3": "真空每次脉冲都在突破极限",
+
+  "item.universejourney.universe_boots": "寰宇靴子",
+  "item.universejourney.universe_boots.lore_main": "踏破山河长足",
+  "item.universejourney.universe_boots.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_boots.lore2": "踏行任何液体如履坚实大地",
+  "item.universejourney.universe_boots.lore3": "潜行双刹可向一侧瞬影移步",
+
+  "item.universejourney.universe_ultima_sword": "寰宇终剑",
+  "item.universejourney.universe_ultima_sword.lore_main": "万界终焉武装",
+  "item.universejourney.universe_ultima_sword.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_ultima_sword.lore2": "世间一切脉动与灵魂的终焉",
+  "item.universejourney.universe_ultima_sword.lore3": "自如掌控其释放的灭世之威",
+
+  "item.universejourney.universe_omni_blade": "寰宇全能刃",
+  "item.universejourney.universe_omni_blade.lore_main": "创造毁灭之隙",
+  "item.universejourney.universe_omni_blade.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_omni_blade.lore2": "亦可默然深耕亦可碎裂苍穹",
+  "item.universejourney.universe_omni_blade.lore3": "自由流转创造与毁灭的力量",
+
+  "item.universejourney.universe_console": "寰宇控制台",
+  "item.universejourney.universe_console.lore_main": "中央管控系统",
+  "item.universejourney.universe_console.lore1": "唯有时空本身能抹除其存在",
+  "item.universejourney.universe_console.lore2": "随心探访全世界的功能方块",
+
+  "item.universejourney.universe_block": "寰宇方块",
+  "item.universejourney.universe_workstation": "寰宇工作站",
+  "item.universejourney.universe_refinery": "寰宇烧炼厂",
+  "item.universejourney.universe_library": "寰宇保藏库",
+  "item.universejourney.universe_void_pool": "寰宇虚空池",
+
+  "block.universejourney.universe_block": "寰宇方块",
+  "block.universejourney.universe_workstation": "寰宇工作站",
+  "block.universejourney.universe_refinery": "寰宇烧炼厂",
+  "block.universejourney.universe_library": "寰宇保藏库",
+  "block.universejourney.universe_void_pool": "寰宇虚空池",
+
+  "biome.universejourney.lake_center_island": "湖心岛"
+}

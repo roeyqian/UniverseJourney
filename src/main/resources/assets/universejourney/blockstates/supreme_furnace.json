@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=north": { "model": "universejourney:block/supreme_furnace" },
+    "facing=south": { "model": "universejourney:block/supreme_furnace", "y": 180 },
+    "facing=west":  { "model": "universejourney:block/supreme_furnace", "y": 270 },
+    "facing=east":  { "model": "universejourney:block/supreme_furnace", "y": 90 }
+  }
+}
+

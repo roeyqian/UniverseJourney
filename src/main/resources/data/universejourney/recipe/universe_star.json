@@ -1,0 +1,10 @@
+{
+  "type": "universejourney:universe_cooking",
+  "category": "misc",
+  "cookingtime": 240,
+  "experience": 10,
+  "ingredient": "universejourney:universe_primary_block",
+  "result": {
+    "id": "universejourney:universe_star"
+  }
+}

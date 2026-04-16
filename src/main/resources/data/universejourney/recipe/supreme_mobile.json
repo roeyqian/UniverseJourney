@@ -1,0 +1,18 @@
+{
+  "type": "universejourney:supreme_crafting",
+  "category": "misc",
+  "group": "supreme:items",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": "universejourney:supreme_crystal"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:supreme_mobile"
+  },
+  "show_notification": true
+}

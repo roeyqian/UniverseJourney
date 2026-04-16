@@ -1,0 +1,18 @@
+{
+  "type": "universejourney:harvest_continent_type",
+  "generator": {
+    "type": "minecraft:noise",
+    "settings": "universejourney:harvest_continent",
+    "biome_source": {
+      "type": "universejourney:harvest_continent",
+      "seed": 0,
+      "cell_size": 256,
+      "jitter": 0.35,
+      "wheat_plain": "universejourney:wheat_plain",
+      "big_lake": "universejourney:big_lake",
+      "lake_center_island": "universejourney:lake_center_island",
+      "melon_jungle": "universejourney:melon_jungle",
+      "pumpkin_gorge": "universejourney:pumpkin_gorge"
+    }
+  }
+}

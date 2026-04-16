@@ -1,0 +1,18 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "building",
+  "group": "universejourney:items",
+  "pattern": [
+    " S ",
+    "S S",
+    " S "
+  ],
+  "key": {
+    "S": "universejourney:universe_star"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:universe_guardian_spawn_egg"
+  },
+  "show_notification": true
+}

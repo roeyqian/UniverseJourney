@@ -1,0 +1,17 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "misc",
+  "group": "universejourney:items",
+  "pattern": [
+    "S",
+    "S"
+  ],
+  "key": {
+    "S": "universejourney:universe_star"
+  },
+  "result": {
+    "id": "universejourney:universe_stick",
+    "count": 1
+  },
+  "show_notification": true
+}

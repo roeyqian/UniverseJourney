@@ -1,0 +1,19 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "equipment",
+  "group": "universejourney:items",
+  "pattern": [
+    "SSS",
+    "ST ",
+    " T "
+  ],
+  "key": {
+    "S": "universejourney:universe_star",
+    "T": "universejourney:universe_stick"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:universe_omni_blade"
+  },
+  "show_notification": true
+}

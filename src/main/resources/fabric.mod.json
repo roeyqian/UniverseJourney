@@ -1,0 +1,34 @@
+{
+	"schemaVersion": 1,
+	"id": "universejourney",
+	"version": "${version}",
+	"name": "UniverseJourney",
+	"description": "A progression-focused Fabric mod featuring Supreme and Universe gear, custom crafting systems, and two new dimensions: Ore Continent and Harvest Continent.",
+	"authors": [
+		"RoeyQian"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/roeyqian/UniverseJourney"
+	},
+	"license": "GPL-3.0-only",
+	"icon": "assets/universejourney/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": ["roeyqian.universejourney.UniverseJourney"],
+		"client": ["roeyqian.universejourney.UniverseJourneyClient"]
+	},
+	"mixins": [
+      "universejourney.mixins.json",
+		{
+			"config": "universejourney.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.18.4",
+		"minecraft": "26.1",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

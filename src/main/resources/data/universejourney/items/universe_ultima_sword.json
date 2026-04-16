@@ -1,0 +1,7 @@
+{
+  "components": {
+    "minecraft:damage_resistant": {
+      "types": "#universejourney:immortal"
+    }
+  }
+}

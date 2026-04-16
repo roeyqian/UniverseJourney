@@ -1,0 +1,179 @@
+{
+  "key.category.universejourney.general": "Universe Journey",
+  "key.universejourney.universe_mode": "Equipment Mode Switch",
+
+  "msg.universejourney.supreme_mobile.mode_1": "Supreme Mobile: Block Identification",
+  "msg.universejourney.supreme_mobile.mode_0": "Supreme Mobile: Block Simulation",
+
+  "msg.universejourney.universe_ultima_sword.mode_1": "Universe Ultima Sword: Refine in an Instant",
+  "msg.universejourney.universe_ultima_sword.mode_0": "Universe Ultima Sword: Candle in Normal Days",
+
+  "msg.universejourney.universe_omni_blade.mode_1": "Universe Omni Blade: Void Convergence",
+  "msg.universejourney.universe_omni_blade.mode_0": "Universe Omni Blade: Benevolent Earth",
+
+  "msg.universejourney.universe_console.mode_1": "Universe Console: Binding Mode",
+  "msg.universejourney.universe_console.mode_0": "Universe Console: Working Mode",
+
+  "msg.universejourney.supreme_mobile.identified": "Supreme Mobile: This block has been identified",
+  "msg.universejourney.supreme_mobile.unfunctional_block": "Supreme Mobile: This block has no interactive GUI",
+  "msg.universejourney.supreme_mobile.has_block_entity": "Supreme Mobile: Persistent data detected, which is not supported",
+  "msg.universejourney.supreme_mobile.no_block_stored": "Supreme Mobile: No block identified yet",
+  "msg.universejourney.supreme_mobile.error.invalid_block_id": "Supreme Mobile: Stored block ID is invalid",
+  "msg.universejourney.supreme_mobile.error.no_factory": "Supreme Mobile: Cannot create screen",
+
+  "msg.universejourney.universe_console.bind": "Universe Console: Block binding successfully",
+  "msg.universejourney.universe_console.remove": "Universe Console: Target Removed",
+  "msg.universejourney.universe_console.remove_btn": "Remove the binding of the block",
+  "msg.universejourney.universe_console.no_bind": "No Bound Blocks",
+  "msg.universejourney.universe_console.no_target": "Universe Console: Target Block Might Be Destroyed",
+  "msg.universejourney.universe_console.unable_open": "Universe Console: Unable to Open the Block",
+  "msg.universejourney.universe_console.unable_bind": "Universe Console: Unable to Bind the Block",
+  "msg.universejourney.universe_console.unknown_world": "Universe Console: Unknown Target World",
+  "msg.universejourney.universe_console.error": "Universe Console: Exception Caught",
+
+  "msg.universejourney.universe_guardian.guard": "Universe Guardian: Guard",
+  "msg.universejourney.universe_guardian.sleep": "Universe Guardian: Sleep",
+
+  "entity.universejourney.skulk_behemoth": "Skulk Behemoth",
+  "entity.universejourney.universe_guardian": "Universe Guardian",
+  "entity.universejourney.bell_ringer": "Bell Ringer",
+  "entity.universejourney.bell_soul": "Bell Soul",
+  "entity.universejourney.the_unnameable_thing": "The Unnameable Thing",
+  "entity.universejourney.pale_lord_body": "Pale Lord",
+  "entity.universejourney.pale_lord_clone": "Pale Lord Clone",
+  "entity.universejourney.obsidian_golem": "Obsidian Golem",
+
+  "dimension.minecraft:overworld": "§aOverworld",
+  "dimension.minecraft:the_nether": "§cThe Nether",
+  "dimension.minecraft:the_end": "§eThe End",
+  "dimension.universejourney:ore_continent": "§bOre Continent",
+  "dimension.universejourney:harvest_continent": "§6Harvest Continent",
+
+  "group.universejourney.supreme_group": "Supreme",
+
+  "item.universejourney.supreme_banquet": "Supreme Banquet",
+  "item.universejourney.supreme_metal": "Supreme Metal",
+  "item.universejourney.supreme_crystal": "Supreme Crystal",
+  "item.universejourney.supreme_core": "Supreme Core",
+
+  "item.universejourney.supreme_mobile": "Supreme Mobile",
+  "item.universejourney.supreme_mobile.lore_main": "Mobile Functional Block",
+  "item.universejourney.supreme_mobile.lore1": "Freely simulate all functional blocks except containers",
+
+  "item.universejourney.seed_of_all_things": "Seed of All Things",
+  "item.universejourney.ever_water_soil": "Ever-Water Soil",
+  "item.universejourney.ever_water_grass_block": "Ever-Water Grass Block",
+  "item.universejourney.ever_water_farmland": "Ever-Water Farmland",
+
+  "item.universejourney.golden_sapling": "Golden Sapling",
+  "item.universejourney.golden_leaves": "Golden Leaves",
+  "item.universejourney.golden_planks": "Golden Planks",
+  "item.universejourney.golden_wood": "Golden Wood",
+  "item.universejourney.stripped_golden_wood": "Stripped Golden Wood",
+  "item.universejourney.golden_log": "Golden Log",
+  "item.universejourney.stripped_golden_log": "Stripped Golden Log",
+
+  "item.universejourney.wither_spawn_egg": "Wither Spawn Egg",
+  "item.universejourney.ender_dragon_spawn_egg": "Ender Dragon Spawn Egg",
+  "item.universejourney.skulk_behemoth_spawn_egg": "Skulk Behemoth Spawn Egg",
+  "item.universejourney.the_unnameable_egg": "The Unnameable Egg",
+  "item.universejourney.bell_ringer_spawn_egg": "Bell Ringer Spawn Egg",
+  "item.universejourney.bell_soul_spawn_egg": "Bell Soul Spawn Egg",
+  "item.universejourney.pale_lord_spawn_egg": "Pale Lord Spawn Egg",
+  "item.universejourney.obsidian_golem_spawn_egg": "Obsidian Golem Spawn Egg",
+
+  "item.universejourney.supreme_gem_block": "Supreme Gem Block",
+  "item.universejourney.supreme_fodder_block": "Supreme Fodder Block",
+  "item.universejourney.supreme_worktable": "Supreme Worktable",
+  "item.universejourney.supreme_furnace": "Supreme Furnace",
+  "item.universejourney.supreme_reserver": "Supreme Reserver",
+
+  "block.universejourney.supreme_worktable": "Supreme Worktable",
+  "block.universejourney.supreme_furnace": "Supreme Furnace",
+  "block.universejourney.supreme_reserver": "Supreme Reserver",
+
+  "group.universejourney.universe_group": "Universe",
+
+  "item.universejourney.universe_gemred": "Core Ember",
+  "item.universejourney.universe_gemblue": "Sky Zenith",
+  "item.universejourney.universe_gemyellow": "Solar Flare",
+  "item.universejourney.universe_gemgreen": "Earth Pulse",
+  "item.universejourney.universe_gemblack": "Abyss Void",
+  "item.universejourney.universe_gemwhite": "Lunar Veil",
+
+  "item.universejourney.universe_primary_fragment": "Primary Fragment",
+  "item.universejourney.universe_primary_block": "Primary Ultra Block",
+
+  "item.universejourney.strange_matter": "Strange Matter",
+  "item.universejourney.strange_potion": "Strange Potion",
+  "item.universejourney.strange_splash_potion": "Strange Splash Potion",
+  "item.universejourney.strange_lingering_potion": "Strange Lingering Potion",
+
+  "item.universejourney.universe_star": "Universe Star",
+  "item.universejourney.universe_star.lore_main": "The essence of the universe",
+  "item.universejourney.universe_star.lore1": "Only time and space itself may erase its existence",
+
+  "item.universejourney.universe_stick": "Universe Stick",
+  "item.universejourney.universe_stick.lore_main": "The beginning of ruling the Myriad Realms",
+  "item.universejourney.universe_stick.lore1": "Only time and space itself may erase its existence",
+
+  "item.universejourney.universe_guardian_spawn_egg": "Universe Guardian Spawn Egg",
+  "item.universejourney.universe_guardian_spawn_egg.lore_main": "Summon the ultimate guardian spirit",
+  "item.universejourney.universe_guardian_spawn_egg.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_guardian_spawn_egg.lore2": "Shadow-bound Shattering Bastion",
+
+  "item.universejourney.universe_helmet": "Universe Helmet",
+  "item.universejourney.universe_helmet.lore_main": "Eternal Lord's Crown",
+  "item.universejourney.universe_helmet.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_helmet.lore2": "You have transcended the need for sustenance and breath",
+  "item.universejourney.universe_helmet.lore3": "Gifted with eyes of cosmic truth forever unbound by abyss and mist",
+
+  "item.universejourney.universe_chestplate": "Universe Chestplate",
+  "item.universejourney.universe_chestplate.lore_main": "God-Armor of Pure Protection",
+  "item.universejourney.universe_chestplate.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_chestplate.lore2": "You stand impervious to the fury of water and flame",
+  "item.universejourney.universe_chestplate.lore3": "Granting you the sovereign right to glide above all",
+
+  "item.universejourney.universe_leggings": "Universe Leggings",
+  "item.universejourney.universe_leggings.lore_main": "Cosmic Plate Leggings",
+  "item.universejourney.universe_leggings.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_leggings.lore2": "No existence in the world can stop your progress now",
+  "item.universejourney.universe_leggings.lore3": "Each pulse within the void transcends all boundaries",
+
+  "item.universejourney.universe_boots": "Universe Boots",
+  "item.universejourney.universe_boots.lore_main": "Mountain-Crushing Treads",
+  "item.universejourney.universe_boots.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_boots.lore2": "Now you can tread upon any liquid as if it were solid ground",
+  "item.universejourney.universe_boots.lore3": "Double-tap in stealth to shadow-step aside",
+
+  "item.universejourney.universe_ultima_sword": "Universe Ultima Sword",
+  "item.universejourney.universe_ultima_sword.lore_main": "Myriad Realms Obliterator",
+  "item.universejourney.universe_ultima_sword.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_ultima_sword.lore2": "The ultimate cessation of all the pulse and soul in the world",
+  "item.universejourney.universe_ultima_sword.lore3": "A simple gesture turns its raw power into a world-ending flame",
+
+  "item.universejourney.universe_omni_blade": "Universe Omni Blade",
+  "item.universejourney.universe_omni_blade.lore_main": "Between Becoming and Ending",
+  "item.universejourney.universe_omni_blade.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_omni_blade.lore2": "Capable of quiet cultivation as well as cosmic upheaval",
+  "item.universejourney.universe_omni_blade.lore3": "A simple gesture triggers the instant annihilation of matter",
+
+  "item.universejourney.universe_console": "Universe Console",
+  "item.universejourney.universe_console.lore_main": "Central Controlling System",
+  "item.universejourney.universe_console.lore1": "Only time and space itself may erase its existence",
+  "item.universejourney.universe_console.lore2": "Only time and space itself may erase its existence",
+
+  "item.universejourney.universe_block": "Universe Block",
+  "item.universejourney.universe_workstation": "Universe Workstation",
+  "item.universejourney.universe_refinery": "Universe Refinery",
+  "item.universejourney.universe_library": "Universe Library",
+  "item.universejourney.universe_void_pool": "Universe Void Pool",
+
+  "block.universejourney.universe_block": "Universe Block",
+  "block.universejourney.universe_workstation": "Universe Workstation",
+  "block.universejourney.universe_refinery": "Universe Refinery",
+  "block.universejourney.universe_library": "Universe Library",
+  "block.universejourney.universe_void_pool": "Universe Void Pool",
+
+  "biome.universejourney.lake_center_island": "Lake Center Island"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "universejourney:supreme_crafting",
+  "category": "equipment",
+  "group": "supreme:items",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": "universejourney:supreme_metal"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:supreme_helmet"
+  },
+  "show_notification": true
+}

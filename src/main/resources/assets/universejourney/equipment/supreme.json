@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "universejourney:supreme"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "universejourney:supreme"
+      }
+    ]
+  }
+}

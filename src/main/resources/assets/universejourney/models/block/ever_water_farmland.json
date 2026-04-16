@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "minecraft:block/farmland_moist",
+    "down": "universejourney:block/ever_water_soil",
+    "particle": "universejourney:block/ever_water_soil",
+    "north": "universejourney:block/ever_water_soil",
+    "south": "universejourney:block/ever_water_soil",
+    "west": "universejourney:block/ever_water_soil",
+    "east": "universejourney:block/ever_water_soil"
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "required": true,
+  "package": "roeyqian.universejourney.mixin",
+  "compatibilityLevel": "JAVA_25",
+  "mixins": [
+    "render.EquipmentLayerRendererMixin",
+    "render.FogRendererMixin",
+    "render.GameRendererMixin",
+    "render.ItemFeatureRendererMixin",
+    "render.ItemStackRenderStateAccessor",
+    "render.LayerRenderStateAccessor",
+    "screen.GhostSlotsInvoker",
+    "screen.RecipeBookComponentMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "client": [
+    "entity.LivingEntityClientMixin",
+    "render.GuiItemAtlasMixin",
+    "render.ItemModelResolverMixin",
+    "render.RenderTypeMixin"
+  ]
+}

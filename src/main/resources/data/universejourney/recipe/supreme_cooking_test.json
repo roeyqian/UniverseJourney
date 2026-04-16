@@ -1,0 +1,11 @@
+{
+  "type": "universejourney:supreme_cooking",
+  "category": "misc",
+  "cookingtime": 100,
+  "experience": 1,
+  "ingredient": "universejourney:universe_primary_fragment",
+  "result": {
+    "id": "universejourney:supreme_crystal"
+  }
+}
+

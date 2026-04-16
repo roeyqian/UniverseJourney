@@ -1,0 +1,10 @@
+{
+  "type": "universejourney:universe_cooking",
+  "category": "misc",
+  "cookingtime": 240,
+  "experience": 10,
+  "ingredient": "minecraft:bedrock",
+  "result": {
+    "id": "universejourney:universe_primary_fragment"
+  }
+}

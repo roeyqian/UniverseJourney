@@ -1,0 +1,64 @@
+{
+  "attributes": {
+    "minecraft:audio/ambient_sounds": {
+      "mood": {
+        "block_search_extent": 8,
+        "offset": 2.0,
+        "sound": "minecraft:ambient.cave",
+        "tick_delay": 6000
+      }
+    },
+    "minecraft:audio/background_music": {
+      "default": {
+        "max_delay": 24000,
+        "min_delay": 12000,
+        "sound": "minecraft:music.game"
+      }
+    },
+    "minecraft:visual/fog_color": "#c0d8ff",
+    "minecraft:visual/sky_color": "#78a7ff"
+  },
+  "carvers": [],
+  "downfall": 0.4,
+  "effects": {
+    "water_color": "#3f76e4"
+  },
+  "features": [
+    [], [], [], [], [], [],
+    [
+      "universejourney:ore_continent_coal",
+      "universejourney:ore_continent_iron",
+      "universejourney:ore_continent_copper",
+      "universejourney:ore_continent_gold",
+      "universejourney:ore_continent_lapis",
+      "universejourney:ore_continent_redstone",
+      "universejourney:ore_continent_emerald",
+      "universejourney:ore_continent_diamond",
+      "universejourney:ore_continent_coal_deep",
+      "universejourney:ore_continent_iron_deep",
+      "universejourney:ore_continent_copper_deep",
+      "universejourney:ore_continent_gold_deep",
+      "universejourney:ore_continent_lapis_deep",
+      "universejourney:ore_continent_redstone_deep",
+      "universejourney:ore_continent_emerald_deep",
+      "universejourney:ore_continent_diamond_deep",
+      "universejourney:ore_continent_quartz_nether",
+      "universejourney:ore_continent_gold_nether",
+      "universejourney:ore_continent_ancient_debris"
+    ],
+    [], [], [], []
+  ],
+  "has_precipitation": false,
+  "spawn_costs": {},
+  "spawners": {
+    "ambient": [],
+    "axolotls": [],
+    "creature": [],
+    "misc": [],
+    "monster": [],
+    "underground_water_creature": [],
+    "water_ambient": [],
+    "water_creature": []
+  },
+  "temperature": 0.8
+}

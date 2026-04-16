@@ -1,0 +1,19 @@
+{
+  "type": "universejourney:universe_crafting",
+  "category": "equipment",
+  "group": "universejourney:items",
+  "pattern": [
+    "TTT",
+    "TCT",
+    "TTT"
+  ],
+  "key": {
+    "C": "minecraft:command_block",
+    "T": "universejourney:universe_stick"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:universe_console"
+  },
+  "show_notification": true
+}

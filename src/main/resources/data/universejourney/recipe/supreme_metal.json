@@ -1,0 +1,19 @@
+{
+  "type": "universejourney:supreme_crafting",
+  "category": "misc",
+  "group": "supreme:items",
+  "pattern": [
+    " # ",
+    "#$#",
+    " # "
+  ],
+  "key": {
+    "#": "minecraft:netherite_ingot",
+    "$": "universejourney:supreme_core"
+  },
+  "result": {
+    "count": 1,
+    "id": "universejourney:supreme_metal"
+  },
+  "show_notification": true
+}

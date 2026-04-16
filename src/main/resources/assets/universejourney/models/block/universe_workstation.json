@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "universejourney:block/universe_workstation_top",
+    "down": "universejourney:block/universe_workstation_bottom",
+    "particle": "universejourney:block/universe_workstation_front",
+    "north": "universejourney:block/universe_workstation_front",
+    "south": "universejourney:block/universe_workstation_back",
+    "west": "universejourney:block/universe_workstation_left",
+    "east": "universejourney:block/universe_workstation_right"
+  }
+}

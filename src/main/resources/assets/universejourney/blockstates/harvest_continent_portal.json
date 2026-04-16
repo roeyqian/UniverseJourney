@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "axis=x": { "model": "universejourney:block/harvest_continent_portal_ns" },
+    "axis=z": { "model": "universejourney:block/harvest_continent_portal_ew" }
+  }
+}

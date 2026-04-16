@@ -1,0 +1,9 @@
+{
+  "sources": [
+    {
+      "type": "single",
+      "resource": "universejourney:entity/chest/universe_library",
+      "sprite": "universejourney:entity/chest/universe_library"
+    }
+  ]
+}
